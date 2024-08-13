@@ -1,0 +1,20 @@
+INDEX VERSION 1.134+C:\lyudasom\1.JAVA\java-workspace\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+3274284633.index
+3021872456.index
+1511029860.index
+3292813888.index
+3007539926.index
+614531289.index
+1403400271.index
+3010713937.index
+3295996359.index
+3022958287.index
+1424850202.index
+1512099811.index
+3413725848.index
+712673515.index
+757596021.index
+3273207262.index
+756501746.index
+3710605656.index
